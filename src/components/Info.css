@@ -1,0 +1,23 @@
+.form1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+label {
+    
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 3rem;
+    margin-bottom: 80px ;
+}
+.btn {
+    margin: 50px;
+}
+
